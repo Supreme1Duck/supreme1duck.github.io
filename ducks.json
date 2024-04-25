@@ -1,76 +1,78 @@
 {
   "shops": [
     {
+      "id": 1,
       "name": "ИП Малаш",
       "address": "Советская 22",
       "is_user_subscribed": false,
       "products": [
-        {
-          "id": 1,
-          "imgSrc": "https://supreme1duck.github.io/preview_1.png",
-          "name": "Вечернее платье",
-          "brandname": "ZARA",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 145
-        },
-        {
-          "id": 2,
-          "imgSrc": "https://supreme1duck.github.io/preview_2.png",
-          "name": "Куртка Женская",
-          "brandname": "Bershka",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 45
-        },
-        {
-          "id": 3,
-          "imgSrc": "https://supreme1duck.github.io/preview_3.png",
-          "name": "Костюм Женский",
-          "brandname": "Bershka",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 45
-        },
-        {
-          "id": 5,
-          "imgSrc": "https://supreme1duck.github.io/preview_5.png",
-          "name": "Костюм Мужской",
-          "brandname": "Bershka",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 65
-        },
-        {
-          "id": 6,
-          "imgSrc": "https://supreme1duck.github.io/preview_6.png",
-          "name": "Костюм Мужской",
-          "brandname": "ZARA",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 75
-        },
-        {
-          "id": 7,
-          "imgSrc": "https://supreme1duck.github.io/preview_7.png",
-          "name": "Костюм Мужской",
-          "brandname": "ZARA",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 75
-        },
-        {
-          "id": 8,
-          "imgSrc": "https://supreme1duck.github.io/preview_8.png",
-          "name": "Костюм Мужской",
-          "brandname": "Bershka",
-          "shop_id": 12,
-          "shop_name": "ИП Малаш",
-          "price": 75
-        }
+          {
+              "id": 1,
+              "imgSrc": "https://supreme1duck.github.io/preview_1.png",
+              "name": "Вечернее платье",
+              "brandName": "ZARA",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 145
+          },
+          {
+              "id": 2,
+              "imgSrc": "https://supreme1duck.github.io/preview_2.png",
+              "name": "Куртка Женская",
+              "brandName": "Bershka",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 45
+          },
+          {
+              "id": 3,
+              "imgSrc": "https://supreme1duck.github.io/preview_3.png",
+              "name": "Костюм Женский",
+              "brandName": "Bershka",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 45
+          },
+          {
+              "id": 5,
+              "imgSrc": "https://supreme1duck.github.io/preview_5.png",
+              "name": "Костюм Мужской",
+              "brandName": "Bershka",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 65  
+          },
+          {
+              "id": 6,
+              "imgSrc": "https://supreme1duck.github.io/preview_6.png",
+              "name": "Костюм Мужской",
+              "brandName": "ZARA",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 75
+          },
+          {
+              "id": 7,
+              "imgSrc": "https://supreme1duck.github.io/preview_7.png",
+              "name": "Костюм Мужской",
+              "brandName": "ZARA",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 75
+          },
+          {
+              "id": 8,
+              "imgSrc": "https://supreme1duck.github.io/preview_8.png",
+              "name": "Костюм Мужской",
+              "brandName": "Bershka",
+              "shop_id": 12,
+              "shop_name": "ИП Малаш",
+              "price": 75
+          }             
       ]
     },
     {
+      "id": 2,
       "name": "DIAMOND",
       "address": "Притыцкого 45",
       "is_user_subscribed": false,
@@ -79,7 +81,7 @@
           "id": 1,
           "imgSrc": "https://supreme1duck.github.io/preview_9.png",
           "name": "Вечернее платье",
-          "brandname": "ZARA",
+          "brandName": "ZARA",
           "shop_id": 12,
           "shop_name": "DIAMOND",
           "price": 215
@@ -88,7 +90,7 @@
           "id": 2,
           "imgSrc": "https://supreme1duck.github.io/preview_10.png",
           "name": "Вечернее платье",
-          "brandname": "Bershka",
+          "brandName": "Bershka",
           "shop_id": 12,
           "shop_name": "DIAMOND",
           "price": 245
@@ -97,7 +99,7 @@
           "id": 3,
           "imgSrc": "https://supreme1duck.github.io/preview_11.png",
           "name": "Вечернее платье",
-          "brandname": "Bershka",
+          "brandName": "Bershka",
           "shop_id": 12,
           "shop_name": "DIAMOND",
           "price": 145
@@ -106,7 +108,7 @@
           "id": 4,
           "imgSrc": "https://supreme1duck.github.io/preview_12.png",
           "name": "Вечернее платье",
-          "brandname": "Bershka",
+          "brandName": "Bershka",
           "shop_id": 12,
           "shop_name": "DIAMOND",
           "price": 175
@@ -115,82 +117,83 @@
           "id": 4,
           "imgSrc": "https://supreme1duck.github.io/preview_13.png",
           "name": "Вечернее платье",
-          "brandname": "Bershka",
+          "brandName": "Bershka",
           "shop_id": 12,
           "shop_name": "DIAMOND",
           "price": 145
-        }
-      ]
+        }          
+      ]      
     },
     {
-      "name": "ИП Малаш",
+      "id": 3,      
+      "name": "Мармелад",
       "address": "Советская 22",
       "is_user_subscribed": false,
       "products": [
-        {
-          "id": 1,
-          "imgSrc": "https://supreme1duck.github.io/preview_14.png",
-          "name": "Мужской костюм",
-          "brandname": "Men's Wear",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 215
-        },
-        {
-          "id": 2,
-          "imgSrc": "https://supreme1duck.github.io/preview_15.png",
-          "name": "Мужской костюм",
-          "brandname": "Men's Wear",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 245
-        },
-        {
-          "id": 3,
-          "imgSrc": "https://supreme1duck.github.io/preview_16.png",
-          "name": "Мужской костюм",
-          "brandname": "Bershka",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 145
-        },
-        {
-          "id": 4,
-          "imgSrc": "https://supreme1duck.github.io/preview_17.png",
-          "name": "Вечернее платье",
-          "brandname": "DIAMOND",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 175
-        },
-        {
-          "id": 4,
-          "imgSrc": "https://supreme1duck.github.io/preview_18.png",
-          "name": "Вечернее платье",
-          "brandname": "DIAMOND",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 145
-        },
-        {
-          "id": 4,
-          "imgSrc": "https://supreme1duck.github.io/preview_19.png",
-          "name": "Вечернее платье",
-          "brandname": "DIAMOND",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 175
-        },
-        {
-          "id": 4,
-          "imgSrc": "https://supreme1duck.github.io/preview_20.png",
-          "name": "Вечернее платье",
-          "brandname": "DIAMOND",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 145
-        }
-      ]
+          {
+            "id": 1,
+            "imgSrc": "https://supreme1duck.github.io/preview_14.png",
+            "name": "Мужской костюм",
+            "brandName": "Men's Wear",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 215
+          },
+          {
+            "id": 2,
+            "imgSrc": "https://supreme1duck.github.io/preview_15.png",
+            "name": "Мужской костюм",
+            "brandName": "Men's Wear",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 245
+          },
+          {
+            "id": 3,
+            "imgSrc": "https://supreme1duck.github.io/preview_16.png",
+            "name": "Мужской костюм",
+            "brandName": "Bershka",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 145
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_17.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 175
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_18.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 145
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_19.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 175
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_20.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 145
+          }          
+      ]      
     }
   ]
 }
