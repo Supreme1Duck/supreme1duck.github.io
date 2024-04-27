@@ -194,6 +194,77 @@
             "price": 145
           }          
       ]      
+    },
+    {
+      "id": 3,
+      "name": "Мармелад",
+      "address": "Советская 22",
+      "is_user_subscribed": false,
+      "products": [
+          {
+            "id": 1,
+            "imgSrc": "https://supreme1duck.github.io/preview_21.png",
+            "name": "Мужской костюм",
+            "brandName": "Men's Wear",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 215
+          },
+          {
+            "id": 2,
+            "imgSrc": "https://supreme1duck.github.io/preview_22.png",
+            "name": "Мужской костюм",
+            "brandName": "Men's Wear",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 245
+          },
+          {
+            "id": 3,
+            "imgSrc": "https://supreme1duck.github.io/preview_23.png",
+            "name": "Мужской костюм",
+            "brandName": "Bershka",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 145
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_24.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 175
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_25.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 145
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_26.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 175
+          },
+          {
+            "id": 4,
+            "imgSrc": "https://supreme1duck.github.io/preview_27.png",
+            "name": "Вечернее платье",
+            "brandName": "DIAMOND",
+            "shop_id": 12,
+            "shop_name": "DIAMOND",
+            "price": 145
+          }
+      ]
     }
   ]
 }
