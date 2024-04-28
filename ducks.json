@@ -69,6 +69,11 @@
               "shop_name": "ИП Малаш",
               "price": 75
           }             
+      ],
+      "categories": [
+          "Брюки",
+          "Платья",
+          "Костюмы",
       ]
     },
     {
@@ -122,7 +127,12 @@
           "shop_name": "DIAMOND",
           "price": 145
         }          
-      ]      
+      ],
+      "categories": [
+          "Брюки",
+          "Платья",
+          "Костюмы",
+      ]
     },
     {
       "id": 3,      
@@ -193,7 +203,12 @@
             "shop_name": "DIAMOND",
             "price": 145
           }          
-      ]      
+      ],
+      "categories": [
+          "Брюки",
+          "Платья",
+          "Костюмы",
+      ]
     },
     {
       "id": 4,
@@ -208,6 +223,7 @@
             "brandName": "Men's Wear",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 215
           },
           {
@@ -217,6 +233,7 @@
             "brandName": "Men's Wear",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 245
           },
           {
@@ -226,6 +243,7 @@
             "brandName": "Bershka",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 145
           },
           {
@@ -235,6 +253,7 @@
             "brandName": "DIAMOND",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 175
           },
           {
@@ -244,6 +263,7 @@
             "brandName": "DIAMOND",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 145
           },
           {
@@ -253,6 +273,7 @@
             "brandName": "DIAMOND",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 175
           },
           {
@@ -262,8 +283,14 @@
             "brandName": "DIAMOND",
             "shop_id": 12,
             "shop_name": "DIAMOND",
+            "category": "Костюмы",
             "price": 145
           }
+      ],
+      "categories": [
+          "Брюки",
+          "Платья",
+          "Костюмы",
       ]
     }
   ]
