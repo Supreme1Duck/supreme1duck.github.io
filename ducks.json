@@ -8,7 +8,11 @@
       "products": [
           {
               "id": 1,
-              "imgSrc": "https://supreme1duck.github.io/preview_1.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_1.png",
+                  "https://supreme1duck.github.io/preview_1.1.png",
+                  "https://supreme1duck.github.io/preview_1.2.png"
+              ],
               "name": "Вечернее платье с открытым верхом",
               "brandName": "ZARA",
               "shop_id": 12,
@@ -17,7 +21,9 @@
           },
           {
               "id": 2,
-              "imgSrc": "https://supreme1duck.github.io/preview_2.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_2.png"
+              ],
               "name": "Куртка Женская",
               "brandName": "Bershka",
               "shop_id": 12,
@@ -26,7 +32,9 @@
           },
           {
               "id": 3,
-              "imgSrc": "https://supreme1duck.github.io/preview_3.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_3.png"
+              ],
               "name": "Костюм Женский",
               "brandName": "Bershka",
               "shop_id": 12,
@@ -35,7 +43,9 @@
           },
           {
               "id": 5,
-              "imgSrc": "https://supreme1duck.github.io/preview_5.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_5.png"
+              ],
               "name": "Костюм Мужской",
               "brandName": "Bershka",
               "shop_id": 12,
@@ -44,7 +54,9 @@
           },
           {
               "id": 6,
-              "imgSrc": "https://supreme1duck.github.io/preview_6.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_6.png"
+              ],
               "name": "Костюм Мужской",
               "brandName": "ZARA",
               "shop_id": 12,
@@ -53,7 +65,9 @@
           },
           {
               "id": 7,
-              "imgSrc": "https://supreme1duck.github.io/preview_7.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_7.png"
+              ],
               "name": "Костюм Мужской",
               "brandName": "ZARA",
               "shop_id": 12,
@@ -62,7 +76,9 @@
           },
           {
               "id": 8,
-              "imgSrc": "https://supreme1duck.github.io/preview_8.png",
+              "imageUrls": [
+                  "https://supreme1duck.github.io/preview_8.png"
+              ],
               "name": "Костюм Мужской",
               "brandName": "Bershka",
               "shop_id": 12,
@@ -84,7 +100,9 @@
       "products": [
         {
           "id": 1,
-          "imgSrc": "https://supreme1duck.github.io/preview_9.png",
+          "imageUrls": [
+              "https://supreme1duck.github.io/preview_9.png"
+          ],
           "name": "Вечернее платье",
           "brandName": "ZARA",
           "shop_id": 12,
@@ -93,7 +111,9 @@
         },
         {
           "id": 2,
-          "imgSrc": "https://supreme1duck.github.io/preview_10.png",
+          "imageUrls": [
+              "https://supreme1duck.github.io/preview_10.png"
+          ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
           "shop_id": 12,
@@ -102,7 +122,9 @@
         },
         {
           "id": 3,
-          "imgSrc": "https://supreme1duck.github.io/preview_11.png",
+          "imageUrls": [
+              "https://supreme1duck.github.io/preview_11.png"
+          ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
           "shop_id": 12,
@@ -111,7 +133,9 @@
         },
         {
           "id": 4,
-          "imgSrc": "https://supreme1duck.github.io/preview_12.png",
+          "imageUrls": [
+              "https://supreme1duck.github.io/preview_12.png"
+          ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
           "shop_id": 12,
@@ -120,7 +144,9 @@
         },
         {
           "id": 5,
-          "imgSrc": "https://supreme1duck.github.io/preview_13.png",
+          "imageUrls": [
+              "https://supreme1duck.github.io/preview_13.png"
+          ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
           "shop_id": 12,
@@ -142,7 +168,9 @@
       "products": [
           {
             "id": 1,
-            "imgSrc": "https://supreme1duck.github.io/preview_14.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_14.png"
+            ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
             "shop_id": 12,
@@ -151,7 +179,9 @@
           },
           {
             "id": 2,
-            "imgSrc": "https://supreme1duck.github.io/preview_15.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_15.png"
+            ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
             "shop_id": 12,
@@ -160,7 +190,9 @@
           },
           {
             "id": 3,
-            "imgSrc": "https://supreme1duck.github.io/preview_16.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_16.png"
+            ],
             "name": "Мужской костюм",
             "brandName": "Bershka",
             "shop_id": 12,
@@ -169,7 +201,9 @@
           },
           {
             "id": 4,
-            "imgSrc": "https://supreme1duck.github.io/preview_17.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_17.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -178,7 +212,9 @@
           },
           {
             "id": 5,
-            "imgSrc": "https://supreme1duck.github.io/preview_18.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_18.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -187,7 +223,9 @@
           },
           {
             "id": 6,
-            "imgSrc": "https://supreme1duck.github.io/preview_19.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_19.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -196,7 +234,9 @@
           },
           {
             "id": 7,
-            "imgSrc": "https://supreme1duck.github.io/preview_20.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_20.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -218,7 +258,9 @@
       "products": [
           {
             "id": 1,
-            "imgSrc": "https://supreme1duck.github.io/preview_21.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_21.png"
+            ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
             "shop_id": 12,
@@ -228,7 +270,9 @@
           },
           {
             "id": 2,
-            "imgSrc": "https://supreme1duck.github.io/preview_22.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_22.png"
+            ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
             "shop_id": 12,
@@ -238,7 +282,9 @@
           },
           {
             "id": 3,
-            "imgSrc": "https://supreme1duck.github.io/preview_23.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_23.png"
+            ],
             "name": "Мужской костюм",
             "brandName": "Bershka",
             "shop_id": 12,
@@ -248,7 +294,9 @@
           },
           {
             "id": 4,
-            "imgSrc": "https://supreme1duck.github.io/preview_24.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_24.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -258,7 +306,9 @@
           },
           {
             "id": 5,
-            "imgSrc": "https://supreme1duck.github.io/preview_25.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_25.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -268,7 +318,9 @@
           },
           {
             "id": 6,
-            "imgSrc": "https://supreme1duck.github.io/preview_26.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_26.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
@@ -278,7 +330,9 @@
           },
           {
             "id": 7,
-            "imgSrc": "https://supreme1duck.github.io/preview_27.png",
+            "imageUrls": [
+                "https://supreme1duck.github.io/preview_27.png"
+            ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
             "shop_id": 12,
