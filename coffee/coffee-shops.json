@@ -1,306 +1,412 @@
 {
-  "shops": [
-    {
-      "id": 1,
-      "name": "ИП Малаш",
-      "address": "Советская 22",
-      "description": "Кофейня кофейня кофейня кофейня кофейня кофейня",
-      "is_user_subscribed": false,
-      "prices_starts_from": 5,
-      "services": [
-          "Горячие напитки",
-          "Кофе",
-          "Алкогольные напитки"
-      ],
-      "worktime": "10.00 - 22.00",
-      "guests_capacity": 10,
-      "time_to_make": 15,
-      "products": [
-          {
-              "id": 1,
-              "imageUrls": "https://supreme1duck.github.io/preview_1.png",
-              "name": "Капучино",
-              "shop_id": 12,
-              "shop_name": "ИП Малаш",
-              "description": "Состав состав состав состав состав состав состав состав",
-              "size": "M",
-              "size_description": "400 мл",
-              "price": 145
-          },
-      ],
-      "nutrients": [
-          {
-              "name": "ккал",
-              "amount": 192
-          },
-          {
-              "name": "белки",
-              "amount": 91
-          },
-          {
-              "name": "жиры",
-              "amount": 91
-          },
-          {
-              "name": "углеводы",
-              "amount": 91
-          },
-      ]
-    },
-    {
-      "id": 2,
-      "name": "DIAMOND",
-      "address": "Притыцкого 45",
-      "is_user_subscribed": false,
-      "products": [
+    "shops": [
         {
-          "id": 1,
-          "imageUrls": [
-              "https://supreme1duck.github.io/preview_9.png"
-          ],
-          "name": "Вечернее платье",
-          "brandName": "ZARA",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 215
-        },
-        {
-          "id": 2,
-          "imageUrls": [
-              "https://supreme1duck.github.io/preview_10.png"
-          ],
-          "name": "Вечернее платье",
-          "brandName": "Bershka",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 245
-        },
-        {
-          "id": 3,
-          "imageUrls": [
-              "https://supreme1duck.github.io/preview_11.png"
-          ],
-          "name": "Вечернее платье",
-          "brandName": "Bershka",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 145
-        },
-        {
-          "id": 4,
-          "imageUrls": [
-              "https://supreme1duck.github.io/preview_12.png"
-          ],
-          "name": "Вечернее платье",
-          "brandName": "Bershka",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 175
-        },
-        {
-          "id": 5,
-          "imageUrls": [
-              "https://supreme1duck.github.io/preview_13.png"
-          ],
-          "name": "Вечернее платье",
-          "brandName": "Bershka",
-          "shop_id": 12,
-          "shop_name": "DIAMOND",
-          "price": 145
-        }          
-      ],
-      "categories": [
-          "Брюки",
-          "Платья",
-          "Костюмы"
-      ]
-    },
-    {
-      "id": 3,      
-      "name": "Мармелад",
-      "address": "Советская 22",
-      "is_user_subscribed": false,
-      "products": [
-          {
             "id": 1,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_14.png"
+            "name": "ИП Малаш",
+            "address": "Советская 22",
+            "description": "Кофейня кофейня кофейня кофейня кофейня кофейня",
+            "image_urls": [
+                "https://i.pinimg.com/564x/b0/04/8f/b0048f9ec7fa6b9b65270dbaaa5d4758.jpg",
+                "https://i.pinimg.com/564x/43/0d/23/430d230d0f8613f43045f26d485d2f6d.jpg",
+                "https://i.pinimg.com/736x/5d/3d/20/5d3d204668594ef74e81c69fea4bab5d.jpg",
+                "https://i.pinimg.com/564x/1d/c8/3d/1dc83d6a43ea5274094e7c73d22da67b.jpg"
             ],
-            "name": "Мужской костюм",
-            "brandName": "Men's Wear",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 215
-          },
-          {
+            "is_user_subscribed": false,
+            "prices_starts_from": 5,
+            "categories": [
+                "Горячие напитки",
+                "Кофе",
+                "Алкогольные напитки"
+            ],
+            "worktime": "10.00 - 22.00",
+            "guests_capacity": 10,
+            "time_to_make": 15,
+            "products": [
+                {
+                    "id": 1,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Фрапучино",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                },
+                {
+                    "id": 2,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Капучино",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                },
+                {
+                    "id": 3,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Латте",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                },
+                {
+                    "id": 4,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Фрапучино",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                }
+            ]
+        },
+        {
             "id": 2,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_15.png"
+            "name": "Starbucks",
+            "address": "Советская 23",
+            "description": "Кофейня кофейня кофейня кофейня кофейня кофейня",
+            "is_user_subscribed": false,
+            "prices_starts_from": 5,
+            "image_urls": [
+                "https://i.pinimg.com/474x/5e/53/39/5e5339d2e1b94327c97ba52d21a663e1.jpg",
+                "https://i.pinimg.com/474x/f7/9d/d7/f79dd7e17e60c1c57803f2d27a8990bb.jpg",
+                "https://i.pinimg.com/474x/aa/bd/b9/aabdb9a0a6b14dbb99852869f3c93a9a.jpg",
+                "https://i.pinimg.com/474x/8c/92/1f/8c921f746a86406d1bf75f809f07f7cc.jpg"
             ],
-            "name": "Мужской костюм",
-            "brandName": "Men's Wear",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 245
-          },
-          {
-            "id": 3,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_16.png"
+            "categories": [
+                "Горячие напитки",
+                "Кофе",
+                "Алкогольные напитки"
             ],
-            "name": "Мужской костюм",
-            "brandName": "Bershka",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 145
-          },
-          {
-            "id": 4,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_17.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 175
-          },
-          {
-            "id": 5,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_18.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 145
-          },
-          {
-            "id": 6,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_19.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 175
-          },
-          {
-            "id": 7,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_20.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "price": 145
-          }          
-      ],
-      "categories": [
-          "Брюки",
-          "Платья",
-          "Костюмы"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Мужские костюмы",
-      "address": "Советская 22",
-      "is_user_subscribed": false,
-      "products": [
-          {
-            "id": 1,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_21.png"
-            ],
-            "name": "Мужской костюм",
-            "brandName": "Men's Wear",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 215
-          },
-          {
-            "id": 2,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_22.png"
-            ],
-            "name": "Мужской костюм",
-            "brandName": "Men's Wear",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 245
-          },
-          {
-            "id": 3,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_23.png"
-            ],
-            "name": "Мужской костюм",
-            "brandName": "Bershka",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 145
-          },
-          {
-            "id": 4,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_24.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 175
-          },
-          {
-            "id": 5,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_25.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 145
-          },
-          {
-            "id": 6,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_26.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 175
-          },
-          {
-            "id": 7,
-            "imageUrls": [
-                "https://supreme1duck.github.io/preview_27.png"
-            ],
-            "name": "Вечернее платье",
-            "brandName": "DIAMOND",
-            "shop_id": 12,
-            "shop_name": "DIAMOND",
-            "category": "Костюмы",
-            "price": 145
-          }
-      ],
-      "categories": [
-          "Брюки",
-          "Платья",
-          "Костюмы"
-      ]
-    }
-  ]
+            "worktime": "10.00 - 22.00",
+            "guests_capacity": 10,
+            "time_to_make": 15,
+            "products": [
+                {
+                    "id": 1,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Фрапучино",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                },
+                {
+                    "id": 2,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Капучино",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                },
+                {
+                    "id": 3,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Латте",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                },
+                {
+                    "id": 4,
+                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "name": "Фрапучино",
+                    "shop_id": 12,
+                    "shop_name": "ИП Малаш",
+                    "is_in_favorite": false,
+                    "description": "Состав состав состав состав состав состав состав состав",
+                    "sizes": [
+                        {
+                            "name": "S",
+                            "description": "300 мл",
+                            "price": 3.99
+                        },
+                        {
+                            "name": "M",
+                            "description": "400 мл",
+                            "price": 4.99
+                        },
+                        {
+                            "name": "L",
+                            "description": "500 мл",
+                            "price": 5.99
+                        },
+                    ],
+                    "nutritions": [
+                        {
+                            "name": "ккал",
+                            "amount": 192
+                        },
+                        {
+                            "name": "белки",
+                            "amount": 91
+                        },
+                        {
+                            "name": "жиры",
+                            "amount": 91
+                        },
+                        {
+                            "name": "углеводы",
+                            "amount": 91
+                        },
+                    ],
+                    "category": "Горячие напитки"
+                }
+            ]
+        },
+    ]
 }
