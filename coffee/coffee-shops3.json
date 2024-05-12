@@ -21,53 +21,6 @@
          "worktime":"10.00 - 22.00",
          "guests_capacity":10,
          "time_to_make":15,
-         "products":[
-            {
-               "id":1,
-               "image_url":"https://supreme1duck.github.io/coffee/cappucino.png",
-               "name":"Фрапучино",
-               "shop_id":12,
-               "shop_name":"ИП Малаш",
-               "is_in_favorite":false,
-               "description":"Состав состав состав состав состав состав состав состав",
-               "sizes":[
-                  {
-                     "name":"S",
-                     "description":"300 мл",
-                     "price":3.99
-                  },
-                  {
-                     "name":"M",
-                     "description":"400 мл",
-                     "price":4.99
-                  },
-                  {
-                     "name":"L",
-                     "description":"500 мл",
-                     "price":5.99
-                  }
-               ],
-               "nutrients":[
-                  {
-                     "name":"ккал",
-                     "amount":192
-                  },
-                  {
-                     "name":"белки",
-                     "amount":91
-                  },
-                  {
-                     "name":"жиры",
-                     "amount":91
-                  },
-                  {
-                     "name":"углеводы",
-                     "amount":91
-                  }
-               ],
-               "category":"Горячие напитки"
-            }
-         ]
       }
    ]
 }
