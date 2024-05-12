@@ -24,7 +24,7 @@
             "products": [
                 {
                     "id": 1,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Фрапучино",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -69,7 +69,7 @@
                 },
                 {
                     "id": 2,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Капучино",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -114,7 +114,7 @@
                 },
                 {
                     "id": 3,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Латте",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -159,7 +159,7 @@
                 },
                 {
                     "id": 4,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Фрапучино",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -228,7 +228,7 @@
             "products": [
                 {
                     "id": 1,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Фрапучино",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -273,7 +273,7 @@
                 },
                 {
                     "id": 2,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Капучино",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -318,7 +318,7 @@
                 },
                 {
                     "id": 3,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Латте",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
@@ -363,7 +363,7 @@
                 },
                 {
                     "id": 4,
-                    "imageUrls": "https://supreme1duck.github.io/coffee/cappucino.png",
+                    "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
                     "name": "Фрапучино",
                     "shop_id": 12,
                     "shop_name": "ИП Малаш",
