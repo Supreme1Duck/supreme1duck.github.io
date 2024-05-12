@@ -47,7 +47,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -92,7 +92,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -137,7 +137,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -182,7 +182,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -251,7 +251,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -296,7 +296,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -341,7 +341,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
@@ -386,7 +386,7 @@
                      "price":5.99
                   }
                ],
-               "nutritions":[
+               "nutrients":[
                   {
                      "name":"ккал",
                      "amount":192
