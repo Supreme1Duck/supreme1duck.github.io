@@ -1,0 +1,73 @@
+{
+   "shops": [
+      {
+         "id":1,
+         "name":"ИП Малаш",
+         "address":"Советская 22",
+         "description":"Кофейня кофейня кофейня кофейня кофейня кофейня",
+         "image_urls":[
+            "https://i.pinimg.com/564x/b0/04/8f/b0048f9ec7fa6b9b65270dbaaa5d4758.jpg",
+            "https://i.pinimg.com/564x/43/0d/23/430d230d0f8613f43045f26d485d2f6d.jpg",
+            "https://i.pinimg.com/736x/5d/3d/20/5d3d204668594ef74e81c69fea4bab5d.jpg",
+            "https://i.pinimg.com/564x/1d/c8/3d/1dc83d6a43ea5274094e7c73d22da67b.jpg"
+         ],
+         "is_user_subscribed":false,
+         "prices_starts_from":5,
+         "categories":[
+            "Горячие напитки",
+            "Кофе",
+            "Алкогольные напитки"
+         ],
+         "worktime":"10.00 - 22.00",
+         "guests_capacity":10,
+         "time_to_make":15,
+         "products":[
+            {
+               "id":1,
+               "image_url":"https://supreme1duck.github.io/coffee/cappucino.png",
+               "name":"Фрапучино",
+               "shop_id":12,
+               "shop_name":"ИП Малаш",
+               "is_in_favorite":false,
+               "description":"Состав состав состав состав состав состав состав состав",
+               "sizes":[
+                  {
+                     "name":"S",
+                     "description":"300 мл",
+                     "price":3.99
+                  },
+                  {
+                     "name":"M",
+                     "description":"400 мл",
+                     "price":4.99
+                  },
+                  {
+                     "name":"L",
+                     "description":"500 мл",
+                     "price":5.99
+                  }
+               ],
+               "nutrients":[
+                  {
+                     "name":"ккал",
+                     "amount":192
+                  },
+                  {
+                     "name":"белки",
+                     "amount":91
+                  },
+                  {
+                     "name":"жиры",
+                     "amount":91
+                  },
+                  {
+                     "name":"углеводы",
+                     "amount":91
+                  }
+               ],
+               "category":"Горячие напитки"
+            }
+         ]
+      }
+   ]
+}
