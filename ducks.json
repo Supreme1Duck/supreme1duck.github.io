@@ -1,7 +1,7 @@
 {
   "shops": [
     {
-      "id": 1,
+      "id": 12,
       "name": "ИП Малаш",
       "address": "Советская 22",
       "is_user_subscribed": false,
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 13,
       "name": "DIAMOND",
       "address": "Притыцкого 45",
       "is_user_subscribed": false,
@@ -105,7 +105,7 @@
           ],
           "name": "Вечернее платье",
           "brandName": "ZARA",
-          "shop_id": 12,
+          "shop_id": 13,
           "shop_name": "DIAMOND",
           "price": 215
         },
@@ -116,7 +116,7 @@
           ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
-          "shop_id": 12,
+          "shop_id": 13,
           "shop_name": "DIAMOND",
           "price": 245
         },
@@ -127,7 +127,7 @@
           ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
-          "shop_id": 12,
+          "shop_id": 13,
           "shop_name": "DIAMOND",
           "price": 145
         },
@@ -138,7 +138,7 @@
           ],
           "name": "Вечернее платье",
           "brandName": "Bershka",
-          "shop_id": 12,
+          "shop_id": 13,
           "shop_name": "DIAMOND",
           "price": 175
         },
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "id": 3,      
+      "id": 14,
       "name": "Мармелад",
       "address": "Советская 22",
       "is_user_subscribed": false,
@@ -173,7 +173,7 @@
             ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 215
           },
@@ -184,7 +184,7 @@
             ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 245
           },
@@ -195,7 +195,7 @@
             ],
             "name": "Мужской костюм",
             "brandName": "Bershka",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 145
           },
@@ -206,7 +206,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 175
           },
@@ -217,7 +217,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 145
           },
@@ -228,7 +228,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 175
           },
@@ -239,7 +239,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 14,
             "shop_name": "DIAMOND",
             "price": 145
           }          
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 15,
       "name": "Мужские костюмы",
       "address": "Советская 22",
       "is_user_subscribed": false,
@@ -263,7 +263,7 @@
             ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 215
@@ -275,7 +275,7 @@
             ],
             "name": "Мужской костюм",
             "brandName": "Men's Wear",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 245
@@ -287,7 +287,7 @@
             ],
             "name": "Мужской костюм",
             "brandName": "Bershka",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 145
@@ -299,7 +299,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 175
@@ -311,7 +311,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 145
@@ -323,7 +323,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 175
@@ -335,7 +335,7 @@
             ],
             "name": "Вечернее платье",
             "brandName": "DIAMOND",
-            "shop_id": 12,
+            "shop_id": 15,
             "shop_name": "DIAMOND",
             "category": "Костюмы",
             "price": 145
