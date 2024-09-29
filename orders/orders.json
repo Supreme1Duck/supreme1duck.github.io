@@ -26,28 +26,6 @@
               "price": 0
             }
           ]
-        },
-        {
-          "id": 2,
-          "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
-          "name": "Капучино",
-          "size": {
-            "id": 1,
-            "name": "S",
-            "description": "300 мл",
-            "price": 3.99
-          }
-        },
-        {
-          "id": 3,
-          "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
-          "name": "Латте",
-          "size": {
-            "id": 1,
-            "name": "S",
-            "description": "300 мл",
-            "price": 3.99
-          }
         }
       ]
     }
