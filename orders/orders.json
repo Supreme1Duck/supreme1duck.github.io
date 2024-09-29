@@ -10,22 +10,23 @@
       "products": [
         {
           "id": 1,
-          "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
+          "imgUrl": "https://supreme1duck.github.io/coffee/cappucino.png",
           "name": "Фрапучино",
+	  "price": 3.99,
           "selectedSize": {
             "id": 1,
             "name": "S",
             "description": "300 мл",
             "price": 3.99
           },
-          "constructors": [
+          "selectedConstructors": [
             {
               "id": 0,
               "wrapperId": 1,
               "name": "Сахар",
               "price": 0
             }
-          ]
+          ],
         }
       ]
     }
