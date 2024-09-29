@@ -6,7 +6,7 @@
       "shopAddress": "Советская 22",
       "date": "2023-10-06T14:30:00Z",
       "price": 5,
-      "shodId": 1,
+      "shopId": 1,
       "products": [
         {
           "id": 1,
