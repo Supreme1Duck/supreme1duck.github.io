@@ -1,0 +1,55 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "shopName": "ИП Малаш",
+      "shopAddress": "Советская 22",
+      "date": "2023-10-06T14:30:00Z",
+      "price": 5,
+      "shodId": 1,
+      "products": [
+        {
+          "id": 1,
+          "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
+          "name": "Фрапучино",
+          "selectedSize": {
+            "id": 1,
+            "name": "S",
+            "description": "300 мл",
+            "price": 3.99
+          },
+          "constructors": [
+            {
+              "id": 0,
+              "wrapperId": 1,
+              "name": "Сахар",
+              "price": 0
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
+          "name": "Капучино",
+          "size": {
+            "id": 1,
+            "name": "S",
+            "description": "300 мл",
+            "price": 3.99
+          }
+        },
+        {
+          "id": 3,
+          "image_url": "https://supreme1duck.github.io/coffee/cappucino.png",
+          "name": "Латте",
+          "size": {
+            "id": 1,
+            "name": "S",
+            "description": "300 мл",
+            "price": 3.99
+          }
+        }
+      ]
+    }
+  ]
+}
