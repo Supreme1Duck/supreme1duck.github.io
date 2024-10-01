@@ -12,7 +12,57 @@
           "id": 1,
           "imgUrl": "https://supreme1duck.github.io/coffee/cappucino.png",
           "name": "Фрапучино",
-	  "price": 3.99,
+          "price": 3.99,
+          "selectedSize": {
+            "id": 1,
+            "name": "S",
+            "description": "300 мл",
+            "price": 3.99
+          },
+          "selectedConstructors": [
+            {
+              "id": 0,
+              "wrapperId": 1,
+              "name": "Сахар",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "shopName": "ИП Малаш",
+      "shopAddress": "Советская 22",
+      "date": "2023-10-06T14:30:00Z",
+      "price": 5,
+      "shopId": 1,
+      "products": [
+        {
+          "id": 1,
+          "imgUrl": "https://supreme1duck.github.io/coffee/cappucino.png",
+          "name": "Фрапучино",
+          "price": 3.99,
+          "selectedSize": {
+            "id": 1,
+            "name": "S",
+            "description": "300 мл",
+            "price": 3.99
+          },
+          "selectedConstructors": [
+            {
+              "id": 0,
+              "wrapperId": 1,
+              "name": "Сахар",
+              "price": 0
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "imgUrl": "https://supreme1duck.github.io/coffee/cappucino.png",
+          "name": "Фрапучино",
+          "price": 3.99,
           "selectedSize": {
             "id": 1,
             "name": "S",
