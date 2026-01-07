@@ -8,9 +8,12 @@
    ![ic_deserts_category](https://github.com/user-attachments/assets/5345742c-696d-4d32-8cd4-165280713e6c)
 5. Кухня
    ![ic_kitchen_category](https://github.com/user-attachments/assets/cc5f986f-93eb-4bf0-9cd6-79fdfbe2af50)
-6. Кастомное название
-   ![Bottle](https://github.com/user-attachments/assets/0d21dbb3-cf9a-43bb-99ea-0c39b681839b)
-7. Кастомное название
-   ![Wineglass Triangle](https://github.com/user-attachments/assets/f3dc0887-f9c5-4cd3-b3c7-2fea327ce7b4)
-8. Кастомное название
-   <img width="24" height="24" alt="Wineglass" src="https://github.com/user-attachments/assets/f3ca4030-f0a3-41d4-bc5e-02b9b7f2cd59" />
+6. Сендвичи
+   ![ic_sandwich_category](https://github.com/user-attachments/assets/6cb425e1-70be-4603-a22b-e624906dd393)
+7. Салаты
+    ![ic_salads_category](https://github.com/user-attachments/assets/74a9add1-43f0-4dcb-8766-3377b61934f5)
+8. Выпечка
+   ![ic_vypechka_category](https://github.com/user-attachments/assets/9e093b09-c0a0-4b6d-82f4-4e66158103ee)
+9. Леденцы
+    ![ic_ledency_category](https://github.com/user-attachments/assets/9e06de8e-6910-4256-b62d-ddad052fe314)
+10. Другое
